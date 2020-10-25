@@ -1,6 +1,6 @@
 # Python-Challenge
 
-
+Couldn't add the election data because file was too big. Everything else is completed.
 Assignment:
 
 PyBank
